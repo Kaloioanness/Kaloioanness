@@ -21,4 +21,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaloioanness" alt="GitHub Streak Stats" />
 </p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kaloioanness&theme=onedark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kaloioanness&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
