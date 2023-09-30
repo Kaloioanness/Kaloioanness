@@ -15,11 +15,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaloioanness&show_icons=true&locale=en&layout=compact" alt="kaloioanness" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaloioanness&show_icons=true&locale=en" alt="kaloioanness" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaloioanness&show_icons=true&locale=en&layout=compact" alt="Kaloioanness" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaloioanness&show_icons=true&locale=en" alt="Kaloioanness" /></p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaloioanness" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaloioanness" alt="GitHub Streak Stats" />
 </p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kaloioanness&theme=onedark)
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kaloioanness&theme=onedark)
