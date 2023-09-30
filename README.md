@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaloioanness&show_icons=true&locale=en" alt="kaloioanness" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaloioanness&" alt="kaloioanness" /></p>
+![trophy](https://github-profile-trophy.vercel.app/?username=Kaloioanness&theme=onedark)
+![Kaloyan Dimitrov's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaloioanness&theme=dracula&show_icons=true)
