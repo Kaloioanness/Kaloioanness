@@ -17,8 +17,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaloioanness&show_icons=true&locale=en&layout=compact" alt="Kaloioanness" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaloioanness&show_icons=true&locale=en" alt="Kaloioanness" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kaloioanness&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaloioanness" alt="GitHub Streak Stats" />
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kaloioanness&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
