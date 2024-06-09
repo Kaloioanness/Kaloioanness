@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaloioanness&label=Profile%20views&color=0e75b6&style=flat" alt="kaloioanness" /> </p>
 
-- 🌱 I’m currently learning ** MYSQL, SPRING DATA**
+- 🌱 I’m currently learning ** SPRING FUNDAMENTALS, SPRING ADVANCED**
 
-- 📫 How to reach me **Kaloyandimitrov97@abv.bg**
+- 📫 How to reach me **kaloyandimitrov97@abv.bg**
 
 <h3 align="left">Connect with me:</h3> <p align="left">
 <a href="https://linkedin.com/in/kaloyan-dimitrov-81785a293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaloyan-dimitrov-81785a293/" height="30" width="40" /></a>
